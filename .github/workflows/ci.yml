@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - main
+  workflow_dispatch: # Add this line
 permissions:
   contents: write
 jobs:
@@ -26,5 +27,4 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-glightbox
       - run: mkdocs gh-deploy --force
