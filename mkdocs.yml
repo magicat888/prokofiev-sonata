@@ -8,7 +8,7 @@ theme:
   # logo: assets/HKB1.png
   features:
     - navigation.footer
-  # icon:
+  icon:
     logo: fontawesome/solid/p
   favicon: simple-icon
   palette:
