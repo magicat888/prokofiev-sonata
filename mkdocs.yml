@@ -9,8 +9,8 @@ theme:
   features:
     - navigation.footer
   # icon:
-  #   logo: fontawesome/solid/P
-  # favicon: simple-icon
+    logo: fontawesome/solid/p
+  favicon: simple-icon
   palette:
     # Light Mode
     - scheme: default
