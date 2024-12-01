@@ -1,16 +1,13 @@
 site_name: Prokofiev Sonatas
-site_url: https://sitename.example
 theme:
   name: material
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  # logo: assets/HKB1.png
   features:
     - navigation.footer
   icon:
-    logo: fontawesome/solid/P
-  # favicon: simple-icon
+    logo: fontawesome/solid/p
   palette:
     # Light Mode
     - scheme: default
@@ -48,31 +45,29 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-plugins:
-  - glightbox:
-      touchNavigation: true
-      loop: false
-      effect: zoom
-      slide_effect: slide
-      width: 100%
-      height: auto
-      zoomable: true
-      draggable: true
-      skip_classes:
-        - custom-skip-class-name
-      auto_caption: false
-      caption_position: bottom
-      background: white
-      shadow: true
-      manual: false
-  # - autorefs:
-  #     # This will automatically generate navigation from the docs directory
-  #     auto_nav: true
+# plugins:
+#   - glightbox:
+#       touchNavigation: true
+#       loop: false
+#       effect: zoom
+#       slide_effect: slide
+#       width: 100%
+#       height: auto
+#       zoomable: true
+#       draggable: true
+#       skip_classes:
+#         - custom-skip-class-name
+#       auto_caption: false
+#       caption_position: bottom
+#       background: white
+#       shadow: true
+#       manual: false
+# - autorefs:
+#     # This will automatically generate navigation from the docs directory
+#     auto_nav: true
 extra:
   social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
     - icon: simple/linkedin
-      link: https://linkedin.com/in/willettjames
+      link: https://www.linkedin.com/in/felix-fung-m9384/
 
-copyright: Copyright &copy; 2024 James Willett
+copyright: Copyright &copy; 2024 Felix Fung
