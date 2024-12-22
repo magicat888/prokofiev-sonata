@@ -18,68 +18,73 @@ Prokofiev's **Piano Sonata No. 1** is his first published work and represents hi
 
 ## Structure and Form (with Bar Numbers)
 
-### 1. **Exposition** (Bars 1–49)
+### 1. **Exposition** (Bars 1–93)
 
 The exposition introduces two contrasting themes and establishes the tonal framework of the piece.
 
-- **First Theme (Bars 1–16)**:
+- **First Theme (Bars 5–25)**:
 
   - Key: F minor
   - A dramatic and stormy theme, characterized by sweeping arpeggios and a melancholic melody.
   - The theme is introduced in the left hand with a bold, declamatory style, while the right hand provides rapid arpeggios.
 
-- **Transition (Bars 17–24)**:
+- **Transition (Bars 26–41)**:
 
   - Modulates from F minor to A-flat major (the relative major).
   - Features chromaticism and rhythmic drive, creating tension and anticipation for the second theme.
 
-- **Second Theme (Bars 25–49)**:
+- **Second Theme (Bars 42–93)**:
+
   - Key: A-flat major
   - A lyrical and contrasting theme, more delicate and introspective than the first.
   - The melody is smoother and more flowing, with a sense of calm and resolution.
 
+- **Closing I (Bars 74–81)**:
+
+- **Closing II (Bars 82–93)**:
+
 ---
 
-### 2. **Development** (Bars 50–91)
+### 2. **Development** (Bars 94–133)
 
 The development section explores and transforms the material from the exposition.
 
-- **Opening of Development (Bars 50–63)**:
+- **Opening of Development (Bars 94–103)**:
 
   - Begins with fragments of the first theme, now more fragmented and chromatic.
   - Prokofiev uses dynamic contrasts and harmonic instability to create tension.
 
-- **Virtuosic Passage (Bars 64–78)**:
+- **Virtuosic Passage (Bars 104–118)**:
 
   - Features rapid arpeggios and scales, showcasing the pianist's technical skill.
   - The harmonic language becomes more adventurous, with unexpected modulations.
 
-- **Climactic Build (Bars 79–91)**:
+- **Climactic Build (Bars 119–133)**:
   - The development reaches its dramatic peak with a powerful restatement of the first theme in a more intense and rhythmically driven form.
   - Leads seamlessly into the recapitulation.
 
 ---
 
-### 3. **Recapitulation** (Bars 92–136)
+### 3. **Recapitulation** (Bars 134–240)
 
 The recapitulation restates the themes from the exposition, now resolved in the home key of F minor.
 
-- **First Theme (Bars 92–107)**:
+- **First Theme (Bars 146–151)**:
 
   - Key: F minor
   - The first theme returns, now more intense and dramatic than in the exposition.
 
-- **Transition (Bars 108–115)**:
+- **Transition (Bars 152-173)**:
 
   - A brief transition leads to the second theme, maintaining the tension and energy.
 
-- **Second Theme (Bars 116–136)**:
+- **Second Theme (Bars 174-194)**:
   - Key: F major (tonic major)
   - The second theme is restated, but now in F major, providing a sense of resolution and optimism.
 
 ---
 
-### 4. **Coda** (Bars 137–153)
+### 4. **Coda** (Bars 240–245)
 
 - Key: F minor
 - The coda reinforces the home key and brings the piece to a dramatic conclusion.
@@ -116,6 +121,7 @@ The recapitulation restates the themes from the exposition, now resolved in the 
 - **Opening Theme (Bars 5–23)**: Dramatic and stormy, setting the tone for the piece.
 - **Second Theme (Bars 42–73)**: Lyrical and contrasting, offering a moment of calm.
 - **Closing (Bars Part I 74, Part II 82)**
+- **Development (Bars 94, 96 swell to fortisim, 98 p, 104 build starts, 119 right hand)**
 - **Recapitulation (Bars 134, 146 first theme, 152 bridge, 174 second theme, 194 closing )**: The return of the first theme, now more powerful and resolved.
 - **Coda (218 indicates, Bars 240–245)**: A dramatic conclusion, ending with a flourish in F minor.
 
