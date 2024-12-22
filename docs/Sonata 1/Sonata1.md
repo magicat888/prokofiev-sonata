@@ -18,30 +18,47 @@ Prokofiev's **Piano Sonata No. 1** is his first published work and represents hi
 
 ## Structure and Form (with Bar Numbers)
 
+```mermaid
+timeline
+    title Structure and Form
+
+    section Exposition
+    1-93 : 1st theme 0.09 : Transition 0.54 : 2nd Theme 1.24,1.54 : Closing I 2.21 : Closing II 2.33
+
+    section Development
+    94-133 : Opening 2.52 : Building 3.10 : Climatic 3.30
+
+    section Recapitulation
+    134-239 : Opening 4.00 : 1st Theme 4.32 : Transition 4.50 : 2nd Theme 5.26 : Closing 6.00 : Closing Theme I 6.13 : Closing to Coda 6.38 : Closing Theme II 6.50
+
+    section Coda
+    240-245 : Coda 7.15
+```
+
 ### 1. **Exposition** (Bars 1–93)
 
 The exposition introduces two contrasting themes and establishes the tonal framework of the piece.
 
-- **First Theme (Bars 5–25)**:
+- **First Theme (Bars 5–25)**: 0:09
 
   - Key: F minor
   - A dramatic and stormy theme, characterized by sweeping arpeggios and a melancholic melody.
   - The theme is introduced in the left hand with a bold, declamatory style, while the right hand provides rapid arpeggios.
 
-- **Transition (Bars 26–41)**:
+- **Transition (Bars 26–41)**: 0:54
 
   - Modulates from F minor to A-flat major (the relative major).
   - Features chromaticism and rhythmic drive, creating tension and anticipation for the second theme.
 
-- **Second Theme (Bars 42–93)**:
+- **Second Theme (Bars 42–93)**: 1:24, 1:54
 
   - Key: A-flat major
   - A lyrical and contrasting theme, more delicate and introspective than the first.
   - The melody is smoother and more flowing, with a sense of calm and resolution.
 
-- **Closing I (Bars 74–81)**:
+- **Closing I (Bars 74–81)**: 2:21
 
-- **Closing II (Bars 82–93)**:
+- **Closing II (Bars 82–93)**: 2:33
 
 ---
 
@@ -49,42 +66,48 @@ The exposition introduces two contrasting themes and establishes the tonal frame
 
 The development section explores and transforms the material from the exposition.
 
-- **Opening of Development (Bars 94–103)**:
+- **Opening of Development (Bars 94–103)**: 2:52
 
   - Begins with fragments of the first theme, now more fragmented and chromatic.
   - Prokofiev uses dynamic contrasts and harmonic instability to create tension.
 
-- **Virtuosic Passage (Bars 104–118)**:
+- **Virtuosic Passage (Bars 104–118)**: 3:10
 
   - Features rapid arpeggios and scales, showcasing the pianist's technical skill.
   - The harmonic language becomes more adventurous, with unexpected modulations.
 
-- **Climactic Build (Bars 119–133)**:
+- **Climatic Build (Bars 119–133)**: 3:30
   - The development reaches its dramatic peak with a powerful restatement of the first theme in a more intense and rhythmically driven form.
   - Leads seamlessly into the recapitulation.
 
 ---
 
-### 3. **Recapitulation** (Bars 134–240)
+### 3. **Recapitulation** (Bars 134–240) 4:00
 
 The recapitulation restates the themes from the exposition, now resolved in the home key of F minor.
 
-- **First Theme (Bars 146–151)**:
+- **First Theme (Bars 146–151)**: 4:32
 
   - Key: F minor
   - The first theme returns, now more intense and dramatic than in the exposition.
 
-- **Transition (Bars 152-173)**:
+- **Transition (Bars 152-173)**: 4:50
 
   - A brief transition leads to the second theme, maintaining the tension and energy.
 
-- **Second Theme (Bars 174-194)**:
+- **Second Theme (Bars 174-193)**: 5:26
+
   - Key: F major (tonic major)
   - The second theme is restated, but now in F major, providing a sense of resolution and optimism.
 
+- **Closing Theme (Bars 194)**: 6:00
+- **Closing Theme Part I (Bars 202)**: 6:13
+- **Closing Theme Arrival of Coda (Bars 218)**: 6:38
+- **Closing Theme Part II (Bars 226)**: 6:50
+
 ---
 
-### 4. **Coda** (Bars 240–245)
+### 4. **Coda** (Bars 240–245) 7:15
 
 - Key: F minor
 - The coda reinforces the home key and brings the piece to a dramatic conclusion.
@@ -157,3 +180,7 @@ The sonata requires a balance of technical skill and emotional expressiveness. P
 #### Conclusion:
 
 Sonata No. 1 in F Minor, Op. 1, marks a significant early work in Prokofiev's oeuvre, showcasing his emerging style and compositional voice. It serves as a bridge between his youthful explorations and the more mature works that would follow, reflecting both his technical abilities and his evolving musical language.
+
+```
+
+```
